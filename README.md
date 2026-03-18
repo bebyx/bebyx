@@ -19,7 +19,7 @@ Here are some things I’ve been experimenting with:
 - [runepal](https://github.com/bebyx/runepal) (Haskell) -- CLI tool written in Haskell to explore functional patterns and text processing
 - [eluna](https://github.com/bebyx/eluna) (Rust) -- Rust-based experiment with date/time calculations
 - [bebyx.zsh-theme](https://gist.github.com/bebyx/38ce753760f4f3a71e56dc081e64aa8e) -- custom Zsh theme focused on readability and developer UX
-- [k8s-homelab](https://github.com/bebyx/k8s-homelab) -- personal Kubernetes homelab for infrastructure and platform experiments (kubeadm, Ansible, Terraform, Helm)
+- [k8s-homelab](https://github.com/bebyx/k8s-homelab) -- kubeadm-based Kubernetes cluster with Ansible provisioning and Terraform/Helm-managed platform components
 
 ## Tech
 `AWS` `Azure` `Kubernetes` `Terraform` `Docker`  
