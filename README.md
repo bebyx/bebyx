@@ -10,7 +10,7 @@ Senior DevOps / Platform Engineer working with cloud infrastructure, Kubernetes 
 
 ## What I'm exploring
 - Kubernetes internals and platform engineering patterns
-- Functional programming (Haskell) — to better understand abstractions and system design
+- Functional programming (Haskell) -- to better understand abstractions and system design
 - Observability and system behavior
 
 ## Selected repositories
